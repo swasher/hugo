@@ -1,4 +1,4 @@
-baseURL: "https://swasher.github.io/hugo"
+baseURL: "https://swasher.github.io/"
 languageCode: 'en-us'
 title: Polygraph
 paginate: 5

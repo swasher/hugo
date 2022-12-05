@@ -1,2 +1,4 @@
 /.hugo_build.lock
 /public/
+gh-pages
+gh-pages.pub

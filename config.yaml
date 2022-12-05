@@ -49,6 +49,7 @@ params:
   hideSummary: true
   showtoc: true
   tocopen: true
+  canonifyURLs: true
 
   assets:
     # disableHLJS: true # to disable highlight.js

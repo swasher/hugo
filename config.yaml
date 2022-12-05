@@ -1,4 +1,4 @@
-baseURL: "https://bdsmblog.github.io/"
+baseURL: "https://swasher.github.io/hugo/"
 languageCode: 'en-us'
 title: Polygraph
 paginate: 5

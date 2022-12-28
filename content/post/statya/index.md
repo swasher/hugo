@@ -11,13 +11,7 @@ draft: false
 
 А это картинки:
 
-<img src="/images/aaa.jpg">
-<img src="aaa.jpg">
 
-<img src="/images/bbb.jpg">
-<img src="bbb.jpg">
-
-
-![](/images/001.jpg)
-![](/images/002.jpg)
+![](/images/aaa.jpg)
+![](bbb.jpg)
 
